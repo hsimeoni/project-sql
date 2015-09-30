@@ -1,7 +1,7 @@
 import urllib2, urllib, hashlib, argparse, random, datetime
 """
     Project Sql injection
-    Hercules Symeonidis
+    Iraklis Symeonidis
     MTE 1132
     Under the purpose of course ..
     At Msc Digital Informantion Security
